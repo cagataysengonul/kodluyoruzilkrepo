@@ -7,7 +7,7 @@
 
 # Installation
 
-git clone `https://github.com/cagataysengonul/kodluyoruzilkrepo.git`
+`git clone https://github.com/cagataysengonul/kodluyoruzilkrepo.git`
 
 # Usage
 
